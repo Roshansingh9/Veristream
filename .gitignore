@@ -42,7 +42,7 @@ next-env.d.ts
 
 # Ignore temp files and large model weights
 temp/
-*.mp4
-*.webm
+# *.mp4
+# *.webm
 # *.pth
 
