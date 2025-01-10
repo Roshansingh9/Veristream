@@ -44,5 +44,5 @@ next-env.d.ts
 temp/
 *.mp4
 *.webm
-*.pth
+# *.pth
 
