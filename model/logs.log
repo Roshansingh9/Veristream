@@ -1,0 +1,18 @@
+2024-12-15 15:38:48,514:WARNING:C:\Users\KIIT\AppData\Local\Temp\ipykernel_19544\3103075910.py:13: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  true_data['label'] = true_data['Target'].replace(label_map)
+
+2024-12-15 15:38:48,517:WARNING:C:\Users\KIIT\AppData\Local\Temp\ipykernel_19544\3103075910.py:14: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  fake_data['label'] = fake_data['Target'].replace(label_map)
+
+2024-12-15 15:38:48,567:WARNING:C:\Users\KIIT\AppData\Local\Programs\Python\Python312\Lib\site-packages\IPython\core\formatters.py:406: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-12-15 15:38:48,568:WARNING:C:\Users\KIIT\AppData\Local\Programs\Python\Python312\Lib\site-packages\IPython\core\formatters.py:406: FutureWarning: RangeIndex.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-12-15 15:45:34,073:WARNING:C:\Users\KIIT\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\tokenization_utils_base.py:2673: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+
+2024-12-15 16:12:03,245:WARNING:C:\Users\KIIT\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\tensorflow\nn.py:678: UserWarning: "`sparse_categorical_crossentropy` received `from_logits=True`, but the `output` argument was produced by a Softmax activation and thus does not represent logits. Was this intended?
+  output, from_logits = _get_logits(
+

@@ -1,0 +1,154 @@
+[00:00
+000 --> 00:03
+400]  Imagine, the year is 1905
+[00:03
+400 --> 00:07
+800]  One day, the clock on the tower in Ben Switzerland is a little late
+[00:07
+800 --> 00:10
+000]  Two minutes late to be more precise
+[00:10
+000 --> 00:14
+800]  For that reason, a man who lives near the tower does not wake up at the same time
+[00:14
+800 --> 00:17
+000]  that he usually wakes up to go to work
+[00:17
+000 --> 00:20
+000]  Realising the mistake, he becomes a little nervous
+[00:20
+000 --> 00:24
+200]  It takes him a little longer to get dressed, drink some coffee and leave the house
+[00:24
+200 --> 00:26
+800]  He leaves five minutes later than usual
+[00:26
+800 --> 00:28
+600]  He's about to cross the street
+[00:28
+600 --> 00:34
+600]  Meanwhile, a banker gets into his new car without knowing that it has a problem with the brakes
+[00:34
+600 --> 00:38
+600]  Our man crosses the street and doesn't see the car
+[00:38
+600 --> 00:40
+600]  The man is run over and dies
+[00:40
+600 --> 00:45
+600]  This man is no less than Albert Einstein
+[00:45
+600 --> 00:50
+600]  That year Einstein should have published four works that would become the basis of modern physics
+[00:50
+600 --> 00:57
+600]  Innovations like GPS, TV screens, the semiconductors that allowed us to create laptops
+[00:57
+600 --> 00:59
+600]  never happen
+[00:59
+600 --> 01:05
+600]  The computer, the laptop, the mobile you are watching this video on never come into existence
+[01:05
+600 --> 01:09
+600]  And this video doesn't exist either
+[01:09
+600 --> 01:17
+600]  This sequence of events is an example of what is known as the butterfly effect, a manifestation of chaos theory
+[01:17
+600 --> 01:23
+600]  For many centuries, the world was explained through the laws of Isaac Newton in classical physics
+[01:23
+600 --> 01:30
+600]  According to these laws, if the current state of an object is known, its future behavior can be predicted with relative ease
+[01:30
+600 --> 01:33
+600]  Chaos theory questions this deterministic vision
+[01:33
+600 --> 01:37
+600]  Not everything is predictable anymore
+Not does it work like luck work
+[01:37
+600 --> 01:44
+600]  Since the 1800s, mathematicians have raised the idea that not all phenomena could be predicted by Newtonian laws
+[01:44
+600 --> 01:50
+600]  But a meteorologist named Edward Lawrence made chaos theory a visible phenomenon
+[01:51
+600 --> 01:58
+600]  It all started in 1961 when he was working on a mathematical model to forecast the weather
+[01:58
+600 --> 02:05
+600]  Lawrence entered data such as temperature, humidity, pressure, and wind direction into his computer
+[02:05
+600 --> 02:09
+600]  His computer would draw a graph, modeling what the weather would be like
+[02:09
+600 --> 02:12
+600]  Not always accurate, but very close to reality
+[02:12
+600 --> 02:16
+600]  One morning, Lawrence decided to verify some results
+[02:16
+600 --> 02:22
+600]  He stopped the computer to save time, entered the numbers himself, and went to grab a coffee
+[02:22
+600 --> 02:26
+600]  When he returned, the chart was incredibly different from the original
+[02:26
+600 --> 02:33
+600]  At the beginning, it started out pretty similar, but in the middle, it presented a completely different trajectory
+[02:33
+600 --> 02:42
+600]  Surprised, he checked the numbers
+He found that the number he had entered was three tenths less than the number used by the computer
+[02:42
+600 --> 02:52
+600]  That difference, which altered the trajectory so much, is equivalent to a particle of dust on the I-Fail Tower, or one less feather in the weight of a duck
+[02:52
+600 --> 03:04
+600]  Lawrence deduced that this experiment was not a special case, that there were other systems in which tiny differences produced over time, monumental changes, making everything seem unpredictable
+[03:04
+600 --> 03:12
+600]  That the flapping of a butterfly in Brazil, could, in theory, cause enough of a disturbance to spark a tornado in Texas
+[03:12
+600 --> 03:23
+600]  Even though we have a good idea of how the universe works, there are no measurements that allow us to determine the exact position and speed of every atom in the universe
+Imagine, the year is 1905
+One day, the clock on the tower in Ben Switzerland is a little late
+Two minutes late to be more precise
+For that reason, a man who lives near the tower does not wake up at the same time that he usually wakes up to go to work
+Realising the mistake, he becomes a little nervous
+It takes him a little longer to get dressed, drink some coffee and leave the house
+He leaves five minutes later than usual
+He's about to cross the street
+Meanwhile, a banker gets into his new car without knowing that it has a problem with the brakes
+Our man crosses the street and doesn't see the car
+The man is run over and dies
+This man is no less than Albert Einstein
+That year Einstein should have published four works that would become the basis of modern physics
+Innovations like GPS, TV screens, the semiconductors that allowed us to create laptops never happen
+The computer, the laptop, the mobile you are watching this video on never come into existence
+And this video doesn't exist either
+This sequence of events is an example of what is known as the butterfly effect, a manifestation of chaos theory
+For many centuries, the world was explained through the laws of Isaac Newton in classical physics
+According to these laws, if the current state of an object is known, its future behavior can be predicted with relative ease
+Chaos theory questions this deterministic vision
+Not everything is predictable anymore
+Not does it work like luck work
+Since the 1800s, mathematicians have raised the idea that not all phenomena could be predicted by Newtonian laws
+But a meteorologist named Edward Lawrence made chaos theory a visible phenomenon
+It all started in 1961 when he was working on a mathematical model to forecast the weather
+Lawrence entered data such as temperature, humidity, pressure, and wind direction into his computer
+His computer would draw a graph, modeling what the weather would be like
+Not always accurate, but very close to reality
+One morning, Lawrence decided to verify some results
+He stopped the computer to save time, entered the numbers himself, and went to grab a coffee
+When he returned, the chart was incredibly different from the original
+At the beginning, it started out pretty similar, but in the middle, it presented a completely different trajectory
+Surprised, he checked the numbers
+He found that the number he had entered was three tenths less than the number used by the computer
+That difference, which altered the trajectory so much, is equivalent to a particle of dust on the I-Fail Tower, or one less feather in the weight of a duck
+Lawrence deduced that this experiment was not a special case, that there were other systems in which tiny differences produced over time, monumental changes, making everything seem unpredictable
+That the flapping of a butterfly in Brazil, could, in theory, cause enough of a disturbance to spark a tornado in Texas
+Even though we have a good idea of how the universe works, there are no measurements that allow us to determine the exact position and speed of every atom in the universe
