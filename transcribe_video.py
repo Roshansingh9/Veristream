@@ -3,14 +3,23 @@ import sys
 import os
 from pathlib import Path
 import torch
-import ffmpeg
 import numpy as np
+import ffmpeg
+from static_ffmpeg import run
+
+# Get ffmpeg path
+ffmpeg_path, _ = run.get_or_fetch_platform_executables_else_raise()
+os.environ["FFMPEG_BINARY"] = ffmpeg_path
 
 def extract_audio(video_path, output_path):
     try:
-        stream = ffmpeg.input(video_path)
-        stream = ffmpeg.output(stream, output_path, acodec='pcm_s16le', ac=1, ar='16k')
-        ffmpeg.run(stream, overwrite_output=True, capture_stdout=True, capture_stderr=True)
+        (
+            ffmpeg
+            .input(video_path)
+            .output(output_path, acodec='pcm_s16le', ac=1, ar='16k')
+            .overwrite_output()
+            .run(capture_stdout=True, capture_stderr=True)
+        )
         return True
     except ffmpeg.Error as e:
         print(f"Error extracting audio: {str(e.stderr.decode())}", file=sys.stderr)
