@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./model
+      dockerfile: Dockerfile.backend
+    container_name: python-backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./model:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  frontend:
+    build:
+      context: .            # Using the project root as the build context
+      dockerfile: app/Dockerfile.frontend  # Dockerfile is located in the "app" folder
+    container_name: nextjs-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
