@@ -1,23 +1,20 @@
-# Use an official Python runtime as a parent image
 FROM python:3.11-slim
 
 # Set working directory
 WORKDIR /app
 
-# Install system dependencies (if needed, e.g., ffmpeg)
+# Install system dependencies (if required)
 RUN apt-get update && apt-get install -y ffmpeg && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements.txt and install Python dependencies
+# Copy only requirements and install them
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the backend source code from the model folder into /app
-# This includes analyze_text.py and fact_checker.py
+# Copy backend source code (analyze_text.py, fact_checker.py, etc.)
 COPY . .
 
-# Expose the backend port (adjust if your backend listens on a different port)
+# Expose the backend port (adjust if needed)
 EXPOSE 5000
 
-# Start the backend server
-# Adjust this command to your actual backend startup (e.g., using Flask, FastAPI, etc.)
+# Command to run your backend service (adjust as needed)
 CMD ["python", "fact_checker.py"]

@@ -5,6 +5,4 @@ Dockerfile*
 *.pyc
 __pycache__/
 temp/
-#model/
-#transcribe_video.py
 *.ipynb
